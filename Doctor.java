@@ -1,3 +1,9 @@
+/*
+
+    String
+
+*/ 
+
 public class Doctor {
     String name;
     String specialty;

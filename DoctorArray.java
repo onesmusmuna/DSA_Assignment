@@ -1,3 +1,9 @@
+/*
+
+    Array
+
+*/ 
+
 public class DoctorArray {
     private Doctor[] doctors;
     private int count;

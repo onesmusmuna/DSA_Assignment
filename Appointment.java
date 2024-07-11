@@ -1,3 +1,9 @@
+/*
+
+    String
+
+*/ 
+
 public class Appointment {
     String patientName;
     String doctorName;

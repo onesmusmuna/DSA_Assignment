@@ -1,3 +1,9 @@
+/*
+
+    String
+
+*/ 
+
 public class MedicalRecord {
     String patientName;
     String recordDetails;
